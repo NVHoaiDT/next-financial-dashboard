@@ -1,5 +1,5 @@
 ## Next.js App Router
 
-There’s no description for this repo yet.
+A foundation next dashboard page.
 
-Wishing you a wonderful day! ✨
+_Have a wonderful day! ✨_

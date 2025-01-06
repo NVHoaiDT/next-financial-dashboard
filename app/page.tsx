@@ -18,10 +18,10 @@ export default function Page() {
             className={` ${lusitana.className} antialiased text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
             <strong>Welcome to Acme.</strong> This is the example for the{" "}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+            <a href="https://nextjs.org/" className="text-blue-500">
+              Next.js
             </a>
-            , brought to you by Vercel.
+            , learn the Next stuff.
           </p>
           <Link
             href="/login"

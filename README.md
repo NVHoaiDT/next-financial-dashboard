@@ -10,9 +10,9 @@ This project built which `nextjs`, so you will need `node.js` installed globally
 
 > [!NOTE]
 > is live at [hdt-financial](https://hdt-financial.vercel.app/login), is live at hdt-financial. Feel free to explore and test it using the credentials below:
-
--  Email: sample@gmail.com
--  Password: 123456.
+>
+> -  Email: sample@gmail.com
+> -  Password: 123456.
 
 1. If you don't have pnpm installed, you can install it globally by running:
 

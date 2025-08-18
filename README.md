@@ -9,7 +9,10 @@ This project built which `nextjs`, so you will need `node.js` installed globally
 ## Installation and Setup
 
 > [!NOTE]
-> While you can run this project using npm, I highly recommend using [`pnpm`](https://pnpm.io/) as your package manager, as it's faster and more efficient than `npm` or `yarn`.
+> is live at [hdt-financial](https://hdt-financial.vercel.app/login), is live at hdt-financial. Feel free to explore and test it using the credentials below:
+
+-  Email: sample@gmail.com
+-  Password: 123456.
 
 1. If you don't have pnpm installed, you can install it globally by running:
 
@@ -34,10 +37,5 @@ pnpm install
 ```bash
 pnpm run dev
 ```
-
-Now, try it out. You should be able to log in and out of your application using the following credentials:
-
--  Email: user@nextmail.com
--  Password: 123456
 
 _Have a wonderful day! ✨_

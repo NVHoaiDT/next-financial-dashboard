@@ -21,6 +21,12 @@ const customers = [
       image_url: '/customers/john-doe.png',
    },
    {
+      id: '410544b2-4001-4271-9855-fec4b6a6412b',
+      name: 'Anna LaRouche',
+      email: 'anna@larouche.com',
+      image_url: '/customers/anna-larouche.png',
+   },
+   {
       id: '410544b2-4001-4271-9855-fec4b6a6442b',
       name: 'Nhu Nguyen',
       email: 'nhu@nguyen.com',
